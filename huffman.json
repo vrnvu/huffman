@@ -1,0 +1,501 @@
+{
+"letters": [
+105,
+121,
+103,
+102,
+119,
+107,
+104,
+101,
+108,
+109,
+100,
+116,
+112,
+117,
+114,
+115,
+110,
+111,
+98,
+118,
+122,
+120,
+106,
+113,
+99,
+97
+],
+"probabilty": 1,
+"children": [
+{
+"letters": [
+105,
+121,
+103,
+102,
+119,
+107,
+104,
+101,
+108,
+109,
+100
+],
+"probabilty": 0.41113950651515707,
+"children": [
+{
+"letters": [
+105,
+121,
+103,
+102,
+119,
+107,
+104
+],
+"probabilty": 0.18514967105874985,
+"children": [
+{
+"letters": [
+105
+],
+"probabilty": 0.08956656328145186,
+"children": null
+},
+{
+"letters": [
+121,
+103,
+102,
+119,
+107,
+104
+],
+"probabilty": 0.095583107777298,
+"children": [
+{
+"letters": [
+121,
+103
+],
+"probabilty": 0.0438398522103633,
+"children": [
+{
+"letters": [
+121
+],
+"probabilty": 0.02019631458750215,
+"children": null
+},
+{
+"letters": [
+103
+],
+"probabilty": 0.02364353762286115,
+"children": null
+}
+]
+},
+{
+"letters": [
+102,
+119,
+107,
+104
+],
+"probabilty": 0.0517432555669347,
+"children": [
+{
+"letters": [
+102,
+119,
+107
+],
+"probabilty": 0.025312351829071305,
+"children": [
+{
+"letters": [
+102
+],
+"probabilty": 0.011227868968325437,
+"children": null
+},
+{
+"letters": [
+119,
+107
+],
+"probabilty": 0.014084482860745868,
+"children": [
+{
+"letters": [
+119
+],
+"probabilty": 0.006411714663674705,
+"children": null
+},
+{
+"letters": [
+107
+],
+"probabilty": 0.007672768197071162,
+"children": null
+}
+]
+}
+]
+},
+{
+"letters": [
+104
+],
+"probabilty": 0.026430903737863398,
+"children": null
+}
+]
+}
+]
+}
+]
+},
+{
+"letters": [
+101,
+108,
+109,
+100
+],
+"probabilty": 0.22598983545640722,
+"children": [
+{
+"letters": [
+101
+],
+"probabilty": 0.1077214991743204,
+"children": null
+},
+{
+"letters": [
+108,
+109,
+100
+],
+"probabilty": 0.11826833628208683,
+"children": [
+{
+"letters": [
+108
+],
+"probabilty": 0.05577422019705857,
+"children": null
+},
+{
+"letters": [
+109,
+100
+],
+"probabilty": 0.062494116085028265,
+"children": [
+{
+"letters": [
+109
+],
+"probabilty": 0.030105042010795214,
+"children": null
+},
+{
+"letters": [
+100
+],
+"probabilty": 0.03238907407423305,
+"children": null
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"letters": [
+116,
+112,
+117,
+114,
+115,
+110,
+111,
+98,
+118,
+122,
+120,
+106,
+113,
+99,
+97
+],
+"probabilty": 0.5888604934848429,
+"children": [
+{
+"letters": [
+116,
+112,
+117,
+114,
+115
+],
+"probabilty": 0.27827305199849944,
+"children": [
+{
+"letters": [
+116,
+112,
+117
+],
+"probabilty": 0.13622182409519337,
+"children": [
+{
+"letters": [
+116
+],
+"probabilty": 0.06607010564864421,
+"children": null
+},
+{
+"letters": [
+112,
+117
+],
+"probabilty": 0.07015171844654916,
+"children": [
+{
+"letters": [
+112
+],
+"probabilty": 0.032524422002823135,
+"children": null
+},
+{
+"letters": [
+117
+],
+"probabilty": 0.037627296443726026,
+"children": null
+}
+]
+}
+]
+},
+{
+"letters": [
+114,
+115
+],
+"probabilty": 0.14205122790330607,
+"children": [
+{
+"letters": [
+114
+],
+"probabilty": 0.07043300177383047,
+"children": null
+},
+{
+"letters": [
+115
+],
+"probabilty": 0.0716182261294756,
+"children": null
+}
+]
+}
+]
+},
+{
+"letters": [
+110,
+111,
+98,
+118,
+122,
+120,
+106,
+113,
+99,
+97
+],
+"probabilty": 0.3105874414863435,
+"children": [
+{
+"letters": [
+110,
+111
+],
+"probabilty": 0.1439415205381182,
+"children": [
+{
+"letters": [
+110
+],
+"probabilty": 0.07194786844181342,
+"children": null
+},
+{
+"letters": [
+111
+],
+"probabilty": 0.07199365209630477,
+"children": null
+}
+]
+},
+{
+"letters": [
+98,
+118,
+122,
+120,
+106,
+113,
+99,
+97
+],
+"probabilty": 0.16664592094822528,
+"children": [
+{
+"letters": [
+98,
+118,
+122,
+120,
+106,
+113,
+99
+],
+"probabilty": 0.08200567889004398,
+"children": [
+{
+"letters": [
+98,
+118,
+122,
+120,
+106,
+113
+],
+"probabilty": 0.03823049609164972,
+"children": [
+{
+"letters": [
+98
+],
+"probabilty": 0.018296292926110617,
+"children": null
+},
+{
+"letters": [
+118,
+122,
+120,
+106,
+113
+],
+"probabilty": 0.0199342031655391,
+"children": [
+{
+"letters": [
+118
+],
+"probabilty": 0.009464339826886279,
+"children": null
+},
+{
+"letters": [
+122,
+120,
+106,
+113
+],
+"probabilty": 0.010469863338652822,
+"children": [
+{
+"letters": [
+122
+],
+"probabilty": 0.00422268368330645,
+"children": null
+},
+{
+"letters": [
+120,
+106,
+113
+],
+"probabilty": 0.006247179655346372,
+"children": [
+{
+"letters": [
+120
+],
+"probabilty": 0.003002549291111647,
+"children": null
+},
+{
+"letters": [
+106,
+113
+],
+"probabilty": 0.003244630364234725,
+"children": [
+{
+"letters": [
+106
+],
+"probabilty": 0.001561222618155451,
+"children": null
+},
+{
+"letters": [
+113
+],
+"probabilty": 0.001683407746079274,
+"children": null
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"letters": [
+99
+],
+"probabilty": 0.043775182798394256,
+"children": null
+}
+]
+},
+{
+"letters": [
+97
+],
+"probabilty": 0.0846402420581813,
+"children": null
+}
+]
+}
+]
+}
+]
+}
+]
+}
